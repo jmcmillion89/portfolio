@@ -7,7 +7,7 @@ const Projects = () => {
   useEffect(() => {
     const fetchRepos = async () => {
       try {
-        const response = await fetch('https://api.github.com/users/yourusername/repos');
+        const response = await fetch('https://api.github.com/users/jmcmillion89/repos');
         const data = await response.json();
         setRepos(data);
       } catch (error) {
