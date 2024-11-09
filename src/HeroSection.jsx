@@ -17,7 +17,7 @@ const HeroSection = () => {
 
       <h1 className="hero-title">Hi, I'm Justin McMillion</h1>
       <p className="hero-description">
-        Full Stack Developer | React, Node.js, and MongoDB Expert
+       Full Stack Developer in Progress | React, Node.js, and MongoDB Enthusiast
       </p>
 
       <div className="hero-cta">
